@@ -12,6 +12,7 @@ Classify the genre of a movie (e.g., Action, Comedy, Drama) from its plot using 
 - Support Vector Machine (SVM)
 
 ## 📊 Dataset
+- Dataset link: [DATASET](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
 - Movie plot summaries with corresponding genres
 - Multi-class classification problem
 
